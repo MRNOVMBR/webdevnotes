@@ -1,0 +1,3 @@
+14. Merge feature/demo branch back to develop branch. Resolve any merge conflicts.
+15. Merge develop branch back to master branch. Resolve any merge conflicts.
+16. Screenshot commits and branches and post link to github pages.
